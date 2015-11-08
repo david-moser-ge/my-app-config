@@ -1,4 +1,3 @@
-var fs = require('fs');
 var file = 'my-app-config.js';
 
 //determine current environment - else default to development
