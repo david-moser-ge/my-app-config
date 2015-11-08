@@ -1,6 +1,6 @@
 {
   "name": "my-app-config",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A utility for retieving config settings for multiple environments in your project.",
   "main": "index.js",
   "author": {
@@ -8,21 +8,20 @@
     "email": "david.moser@ge.com"
   },
   "keywords": [
-  "config",
-  "settings",
-  "environment"
+    "config",
+    "settings",
+    "environment"
   ],
   "license": "MIT",
   "readmeFilename": "README.md",
   "_id": "my-app-config@1.0.2",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/david-moser-ge/my-app-config.git"
+    "type": "git",
+    "url": "https://github.com/david-moser-ge/my-app-config.git"
   },
   "scripts": {
     "install": "node install.js"
   },
   "_shasum": "ab3bb8c58aa6a1f6eef3a11748e175731afd95d4",
   "_from": "my-app-config@*"
-
 }
